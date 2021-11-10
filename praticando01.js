@@ -1,1 +1,1 @@
-console.log("Praticando para aprender...");
+console.log("Praticando, para aprender!!!");
